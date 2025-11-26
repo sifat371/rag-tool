@@ -1,4 +1,4 @@
-# 📚 RAGTool Demo: Personal Research Assistant
+# 📚 RAGTool: Personal Research Assistant
 
 A local **Retrieval-Augmented Generation (RAG)** tool designed to help researchers chat with their PDF documents. This tool leverages **Google Gemini** for advanced reasoning and embeddings, paired with **ChromaDB** for efficient, local vector storage.
 
