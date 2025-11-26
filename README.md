@@ -24,11 +24,11 @@ A local **Retrieval-Augmented Generation (RAG)** tool designed to help researche
 
 1. **Clone the repository** (or download the source code):
    ```bash
-   git clone https://github.com/yourusername/rag-tool.git
+   git clone https://github.com/sifat371/rag-tool.git
    cd rag-tool
    ```
 
-2. **Install dependencies**:
+2. **Install dependencies:**
 
    ```bash
    pip install -r requirements.txt
