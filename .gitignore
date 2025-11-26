@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Environment variables (Secrets)
+.env
+
+# Vector Database (Local Storage)
+chroma_db/
+
+# MacOS
+.DS_Store
